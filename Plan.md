@@ -1,0 +1,3 @@
+- Mdofier le main => utiliser le pattern
+- Ecrire les tests 
+- Boucler afind 'ajouter des tests 

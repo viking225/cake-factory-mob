@@ -1,0 +1,17 @@
+{
+  "name": "mob",
+  "version": "1.0.0",
+  "description": "En utilisant le design pattern decorator, je veux créer un programme me permettant de construire des gateaux de la manière suivante:",
+  "main": "main.test.js",
+  "scripts": {
+    "test": "vitest",
+    "test:watch": "vitest --watch",
+    "build": "tsc main.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.3",
+    "vitest": "^3.0.5"
+  }
+}
